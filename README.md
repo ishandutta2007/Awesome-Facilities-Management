@@ -8,16 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-- **[UpKeep](https://www.upkeep.com/)** — Popular mobile-first CMMS for work orders, asset management, and preventive maintenance.
-- **[MaintainX](https://www.getmaintainx.com/)** — Modern, user-friendly CMMS focused on work orders and team collaboration.
-- **[Limble CMMS](https://www.limblecmms.com/)** — Easy-to-use CMMS with strong preventive maintenance and asset tracking features.
-- **[FMX](https://www.gofmx.com/)** — Facilities management software popular in education and multi-site organizations.
-- **[Hippo CMMS](https://www.hippocmms.com/)** — Straightforward CMMS for maintenance teams.
-- **[Fiix](https://www.fiixsoftware.com/)** (Rockwell Automation) — CMMS with strong asset performance and analytics capabilities.
-- **[eMaint](https://www.emaint.com/)** (Fluke) — Established CMMS/EAM platform.
-- **[IBM Maximo](https://www.ibm.com/products/maximo)** — Enterprise-grade Asset Management and CMMS solution.
-- **[Archibus](https://archibus.com/)** — Integrated Workplace Management System (IWMS) and facilities management platform.
-- **[OfficeSpace](https://www.officespacesoftware.com/)** — Space management and workplace experience platform.
+| Platform | Description | Pricing | Free Tier & Limits |
+| :--- | :--- | :--- | :--- |
+| **[UpKeep](https://www.upkeep.com/)** | Popular mobile-first CMMS for work orders, asset management, and preventive maintenance. | Starts at $20–$24/user/month | No free tier (7-day free trial, unlimited free requesters) |
+| **[MaintainX](https://www.getmaintainx.com/)** | Modern, user-friendly CMMS focused on work orders and team collaboration. | Paid plans start at $10/user/month | **Free plan available** (max 2 active repeating work orders, 2 work orders with procedures, 1-month history limit) |
+| **[Limble CMMS](https://www.limblecmms.com/)** | Easy-to-use CMMS with strong preventive maintenance and asset tracking features. | Custom / Quote-based | No free tier (free trial, unlimited free requesters) |
+| **[FMX](https://www.gofmx.com/)** | Facilities management software popular in education and multi-site organizations. | Custom / Quote-based | No free tier |
+| **[Hippo CMMS](https://www.hippocmms.com/)** | Straightforward CMMS for maintenance teams. | Starts at ~$35/user/month | No free tier (free trial available) |
+| **[Fiix](https://www.fiixsoftware.com/)** (Rockwell Automation) | CMMS with strong asset performance and analytics capabilities. | Paid plans start at $45/user/month | **Free plan available** (max 3 users, 25 preventive maintenance tasks, no inventory management) |
+| **[eMaint](https://www.emaint.com/)** (Fluke) | Established CMMS/EAM platform. | Starts at ~$69/user/month (3-user minimum) | No free tier |
+| **[IBM Maximo](https://www.ibm.com/products/maximo)** | Enterprise-grade Asset Management and CMMS solution. | Custom / Quote-based (typically starts at $40,000+/year via AppPoints) | No free tier (14-day free trial available) |
+| **[Archibus](https://archibus.com/)** | Integrated Workplace Management System (IWMS) and facilities management platform. | Custom / Quote-based | No free tier |
+| **[OfficeSpace](https://www.officespacesoftware.com/)** | Space management and workplace experience platform. | Custom / Quote-based | No free tier |
 
 ## 🔓 Open-Source Software
 
