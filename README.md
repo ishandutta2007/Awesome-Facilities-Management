@@ -1,5 +1,9 @@
 # Awesome-Facilities-Management
 
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Facilities Management Banner" width="100%">
+</p>
+
 ## Similar Projects to Facilities Management & CMMS Platforms
 
 **Facilities Management / CMMS (Computerized Maintenance Management System)** platforms help organizations manage work orders, preventive maintenance, asset tracking, inventory, space management, and facility operations. Leading commercial tools include FMX, UpKeep, MaintainX, Limble CMMS, Hippo CMMS, Fiix, eMaint, IBM Maximo, Archibus, and OfficeSpace.
