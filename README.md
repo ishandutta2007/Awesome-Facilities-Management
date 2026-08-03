@@ -62,6 +62,17 @@ These solutions provide full control over maintenance data, no per-user licensin
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects related to CMMS, facilities management, enterprise asset management (EAM), or maintenance work-order systems.
 
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Facilities-Management&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Facilities-Management&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Facilities-Management&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Facilities-Management&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
+
 **📄 License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
