@@ -4,7 +4,7 @@
   <img src="assets/banner.svg" alt="Awesome Facilities Management Banner" width="100%">
 </p>
 
-## Similar Projects to Facilities Management & CMMS Platforms
+## 🚀 Similar Projects to Facilities Management & CMMS Platforms
 
 **Facilities Management / CMMS (Computerized Maintenance Management System)** platforms help organizations manage work orders, preventive maintenance, asset tracking, inventory, space management, and facility operations. Leading commercial tools include FMX, UpKeep, MaintainX, Limble CMMS, Hippo CMMS, Fiix, eMaint, IBM Maximo, Archibus, and OfficeSpace.
 
@@ -36,22 +36,22 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 - CMDBuild (the framework behind openMAINT) — Highly configurable open-source environment for building custom asset and maintenance management applications.
 - **SuperCMMS / Atlas CMMS-style projects** — Community and commercial-open-source CMMS solutions focused on work orders, assets, and preventive maintenance (check current GitHub activity for the most maintained forks).
 
-### Typical Open-Source Stack
-1. **Core CMMS / Facilities** — openMAINT or CalemEAM
-2. **ERP + Maintenance** — Odoo or ERPNext (when broader business processes are needed)
-3. **Asset registry** — Snipe-IT or the asset modules in the tools above
-4. **Mobile / field use** — Progressive web apps or community mobile clients
-5. **Reporting & IoT** — Custom dashboards + optional sensor integrations
+### 🛠️ Typical Open-Source Stack
+1. 🏢 **Core CMMS / Facilities** — openMAINT or CalemEAM
+2. ⚙️ **ERP + Maintenance** — Odoo or ERPNext (when broader business processes are needed)
+3. 📦 **Asset registry** — Snipe-IT or the asset modules in the tools above
+4. 📱 **Mobile / field use** — Progressive web apps or community mobile clients
+5. 📊 **Reporting & IoT** — Custom dashboards + optional sensor integrations
 
 These solutions provide full control over maintenance data, no per-user licensing fees, and the ability to tailor workflows to exact facility or industrial requirements.
 
 ---
 
-**How to contribute**  
+**🤝 How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects related to CMMS, facilities management, enterprise asset management (EAM), or maintenance work-order systems.
 
-**License**  
+**📄 License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open maintenance tools help teams keep facilities running without proprietary lock-in! 🛠️
