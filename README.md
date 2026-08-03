@@ -6,9 +6,16 @@
 
 ## 🚀 Similar Projects to Facilities Management & CMMS Platforms
 
-**Facilities Management / CMMS (Computerized Maintenance Management System)** platforms help organizations manage work orders, preventive maintenance, asset tracking, inventory, space management, and facility operations. Leading commercial tools include FMX, UpKeep, MaintainX, Limble CMMS, Hippo CMMS, Fiix, eMaint, IBM Maximo, Archibus, and OfficeSpace.
+Welcome to the curated directory of **Computerized Maintenance Management Systems (CMMS)**, **Enterprise Asset Management (EAM)**, and **Facilities Management (FM)** platforms. This resource is designed to help facilities managers, maintenance directors, and IT teams compare commercial SaaS platforms with leading open-source alternatives.
 
-Below is a **curated list** of notable platforms and their open-source equivalents. The open-source CMMS and facilities management ecosystem offers several solid options, especially for organizations that want full data ownership and customization.
+### 🔑 Key Facility & Maintenance Management Features
+- 📋 **Work Order Management** — Dispatch, schedule, and track corrective maintenance tasks.
+- ⚙️ **Preventive Maintenance (PM)** — Create recurring calendar or meter-based maintenance schedules.
+- 📦 **Asset Lifecycle & Inventory Tracking** — Manage spare parts, asset history, and barcode scans.
+- 🏢 **Space & Workplace Planning** — Optimize desk assignments, floor plans, and occupancy.
+- 📊 **Analytics & Reporting** — Track Mean Time to Repair (MTTR) and maintenance costs.
+
+Below is a curated list of notable commercial systems and their open-source counterparts, structured for quick evaluation.
 
 ## 🏢 SaaS / Hosted Platforms
 
