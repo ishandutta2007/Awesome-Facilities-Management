@@ -23,19 +23,14 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Dedicated Open-Source CMMS & Facilities Management
-- **[openMAINT](https://www.openmaint.org/)** — The leading open-source CMMS and facilities management application. Built on the CMDBuild framework, it supports asset and building management, preventive and corrective maintenance, work orders, inventory, documents, and space-related processes. Excellent for facility and property maintenance teams.
-- **[CalemEAM](https://github.com/calemeam)** — Open-source Enterprise Asset Management (EAM) / CMMS system. Provides asset tracking, work orders, preventive maintenance, and multi-site support.
-- **SuperCMMS / Atlas CMMS-style projects** — Community and commercial-open-source CMMS solutions focused on work orders, assets, and preventive maintenance (check current GitHub activity for the most maintained forks).
-
-### Broader Open-Source Platforms with Strong Maintenance Modules
-- **[Odoo](https://github.com/odoo/odoo) (Maintenance / MRP modules)** — Open-source ERP with dedicated maintenance management capabilities. Can handle work orders, equipment, preventive maintenance schedules, and integrate with inventory and accounting.
-- **[ERPNext](https://github.com/frappe/erpnext)** — Open-source ERP that includes asset management and maintenance features suitable for facilities and plant maintenance.
-- **[GLPI](https://github.com/glpi-project/glpi)** — Primarily an IT Service Management and asset management tool, but frequently adapted for broader equipment and facilities tracking.
-
-### Asset-Focused Supporting Tools
-- **[Snipe-IT](https://github.com/snipe/snipe-it)** — Excellent open-source IT asset management system. Useful for tracking equipment, licenses, and consumables (pairs well with a full CMMS).
+- **[Odoo](https://github.com/odoo/odoo)** (Maintenance / MRP modules) [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) — Open-source ERP with dedicated maintenance management capabilities. Can handle work orders, equipment, preventive maintenance schedules, and integrate with inventory and accounting.
+- **[ERPNext](https://github.com/frappe/erpnext)** [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) — Open-source ERP that includes asset management and maintenance features suitable for facilities and plant maintenance.
+- **[Snipe-IT](https://github.com/snipe/snipe-it)** [![GitHub stars](https://img.shields.io/github/stars/snipe/snipe-it?style=social&color=white)](https://github.com/snipe/snipe-it/stargazers) — Excellent open-source IT asset management system. Useful for tracking equipment, licenses, and consumables (pairs well with a full CMMS).
+- **[GLPI](https://github.com/glpi-project/glpi)** [![GitHub stars](https://img.shields.io/github/stars/glpi-project/glpi?style=social&color=white)](https://github.com/glpi-project/glpi/stargazers) — Primarily an IT Service Management and asset management tool, but frequently adapted for broader equipment and facilities tracking.
+- **[openMAINT](https://www.openmaint.org/)** [![GitHub stars](https://img.shields.io/github/stars/itmicus/cmdbuild_docker?style=social&color=white)](https://github.com/itmicus/cmdbuild_docker/stargazers) — The leading open-source CMMS and facilities management application. Built on the CMDBuild framework, it supports asset and building management, preventive and corrective maintenance, work orders, inventory, documents, and space-related processes. Excellent for facility and property maintenance teams.
+- **[CalemEAM](https://github.com/calemeam)** [![GitHub stars](https://img.shields.io/github/stars/calemcme/CalemEAM?style=social&color=white)](https://github.com/calemcme/CalemEAM/stargazers) — Open-source Enterprise Asset Management (EAM) / CMMS system. Provides asset tracking, work orders, preventive maintenance, and multi-site support.
 - CMDBuild (the framework behind openMAINT) — Highly configurable open-source environment for building custom asset and maintenance management applications.
+- **SuperCMMS / Atlas CMMS-style projects** — Community and commercial-open-source CMMS solutions focused on work orders, assets, and preventive maintenance (check current GitHub activity for the most maintained forks).
 
 ### Typical Open-Source Stack
 1. **Core CMMS / Facilities** — openMAINT or CalemEAM
