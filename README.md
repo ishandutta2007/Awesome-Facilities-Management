@@ -290,3 +290,12 @@ Star the repo if you find it useful!
 **Made for bioinformaticians, genomic researchers, and precision-medicine teams.**
 
 Let's keep genomic analysis reproducible, portable, and as open as practical.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Facilities-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Facilities-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Facilities-Management_growth.svg">
+  </picture>
+</a>
