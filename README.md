@@ -105,3 +105,12 @@ Star the repo if you find it useful!
 ---
 **Made for facility managers, workplace teams, and corporate real-estate operators.**
 Let's keep buildings well-run, data-owned, and as open as practical.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Facilities-Management&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Facilities-Management_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Facilities-Management_growth.svg">
+  </picture>
+</a>
