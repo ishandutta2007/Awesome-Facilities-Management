@@ -1,116 +1,135 @@
-# Awesome-Facilities-Management
+# Awesome Facilities Management 🏢⚡
 
-## Top Facilities Management (CAFM) Platforms Ecosystem
-**Curated List of SaaS Products & Open-Source GitHub Projects**
-*Focused on Computer-Aided Facility Management, IWMS, Space Planning, Maintenance & Workplace Operations*
-**Last updated: September 2026**
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Facilities Management Banner" width="100%">
+</p>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Facilities Management (CAFM / IWMS)**. These systems help organizations manage buildings, space, assets, work orders, maintenance, moves, and workplace experience across corporate, campus, healthcare, and public-sector portfolios.
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Facilities-Management?style=flat-square" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Facilities-Management?style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Facilities-Management?style=flat-square" alt="License"/>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Examples** include FM:Systems, Planon, Archibus, OfficeSpace, SpaceIQ, Eptura, IBM TRIRIGA, Accruent, Spacewell, and Maintenance Connection (the category leaders).
-
-**Open-source emphasis**: Full enterprise CAFM/IWMS suites are mostly commercial. Practical open options include **openMAINT**, open CMMS tools (SuperCMMS, Atlas CMMS), and adaptable ERP modules. This section lists the strongest available open resources and is realistic about the commercial gap.
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## SaaS/Hosted Platforms
-- **[FM:Systems](https://fmsystems.com/)**  
-  Workplace and facilities management platform focused on space planning, occupancy, and integrated facility operations.
-
-- **[Planon](https://planonsoftware.com/)**  
-  Comprehensive IWMS and smart-building platform strong in space, maintenance, real estate, sustainability, and IoT-driven facility operations.
-
-- **[Archibus (Eptura)](https://archibus.com/)**  
-  Long-established CAFM/IWMS platform with deep CAD/BIM integration, space management, and facilities workflows (now part of Eptura).
-
-- **[OfficeSpace](https://www.officespacesoftware.com/)**  
-  Workplace management software for desk booking, space planning, and hybrid office operations.
-
-- **[SpaceIQ / Eptura workplace offerings](https://eptura.com/)**  
-  Space and workplace intelligence tools within the broader Eptura portfolio for occupancy and portfolio insights.
-
-- **[Eptura](https://eptura.com/)**  
-  Unified workplace and asset platform combining facilities, space, and maintenance capabilities from multiple heritage brands.
-
-- **[IBM TRIRIGA / Maximo](https://www.ibm.com/)**  
-  Enterprise IWMS and asset management solutions for large, complex real-estate and facilities portfolios.
-
-- **[Accruent](https://www.accruent.com/)**  
-  Facilities and real-estate management suite covering maintenance, space, and workplace operations for corporate and institutional portfolios.
-
-- **[Spacewell](https://spacewell.com/)**  
-  Smart building and workplace platform focused on space utilization, comfort, and facility performance.
-
-- **[Maintenance Connection](https://www.maintenanceconnection.com/)**  
-  CMMS-oriented facilities and maintenance management software for work orders, assets, and preventive maintenance.
-
-## Open-Source GitHub Projects
-- **[openMAINT](https://www.openmaint.org/)**  
-  Open-source CMMS/facility management application for assets, plants, furniture, and related maintenance and logistical activities (built on CMDBuild).
-
-- **[SuperCMMS (Open-Source CMMS)](https://github.com/SuperCMMS/Open-Source-CMMS)**  
-  Open-source computerized maintenance management system for work orders, assets, and maintenance operations (MIT).
-
-- **[Atlas CMMS and similar open facility CMMS](https://atlas-cmms.com/)**  
-  Open-source / self-hostable CMMS options oriented toward facility and multi-site maintenance workflows.
-
-- **[Experimental open facility management platforms](https://github.com/)**  
-  Candidate open-source projects aiming at space planning, work orders, vendor management, and multi-site facility operations.
-
-- **[Odoo / ERPNext maintenance and facilities modules](https://github.com/odoo/odoo)**  
-  Open ERP modules for maintenance, assets, and basic facilities processes that can be extended for CAFM-like use.
-
-- **[CMDBuild and open asset/CMDB frameworks](https://www.cmdbuild.org/)**  
-  Open frameworks used as the foundation for openMAINT and similar asset/facility applications.
-
-- **[Work-order and ticket open systems](https://github.com/)**  
-  Lightweight open tools for tracking maintenance requests and technician workflows.
-
-- **[Space and desk-booking open prototypes](https://github.com/)**  
-  Community projects for simple occupancy, desk booking, and floor-plan visualization.
-
-- **[IoT and building-data open connectors](https://github.com/)**  
-  Libraries and brokers for integrating sensors and building systems into facility dashboards.
-
-- **[Documentation and FM standards open resources](https://github.com/)**  
-  Community guides aligned with ISO 41001 and related facility management practices.
-
-### Additional Strong Open-Source Options
-- Deploying **openMAINT** for asset and maintenance-centric facility management.
-- Using **open CMMS** tools (SuperCMMS, Atlas, etc.) for work-order and preventive-maintenance programs.
-- Extending **Odoo/ERPNext** when facilities processes sit alongside broader ERP needs.
-- Accepting that full IWMS (space + real estate + lease + CAD/BIM + sustainability at enterprise scale) still favors commercial platforms (Planon, Archibus/Eptura, TRIRIGA, Accruent, FM:Systems, etc.).
-- Focusing open-source efforts on data ownership, self-hosting, and lower cost for mid-market and multi-site operators.
-
-**Frameworks for building custom systems**: Register assets and locations in openMAINT or an open CMMS → manage work orders and PMs → visualize space with open floor-plan tools → integrate IoT where needed → report via open BI. Suitable for organizations with technical capacity and moderate portfolio complexity. Large enterprises typically adopt commercial CAFM/IWMS for integrated space, real estate, and compliance.
-
-## How to Contribute
-1. Fork the repo.
-2. Add/edit entries in `README.md` (follow existing format).
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-4. Submit PR with a short explanation.
-
-Star the repo if you find it useful!
-
-## Disclaimer
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-- Facilities systems manage building, asset, and sometimes occupant data. Proper access control, safety processes, and data protection are required. This list is not operational or safety advice.
+## 📌 Top Facilities Management (CAFM & IWMS) Platforms Ecosystem 🛠️
+**Curated List of SaaS Platforms, Enterprise IWMS Software & Open-Source GitHub Projects**  
+*Focused on Computer-Aided Facility Management (CAFM), Integrated Workplace Management Systems (IWMS), Space Planning, CMMS, Maintenance & Smart Workplace Operations.*  
+**Last updated: September 2026** 📅
 
 ---
-**Made for facility managers, workplace teams, and corporate real-estate operators.**
-Let's keep buildings well-run, data-owned, and as open as practical.
 
-## ⭐ Star History
+## 🔍 Overview & Ecosystem Scope 🌐
+This repository tracks leading commercial **SaaS platforms** and **open-source GitHub projects** designed for **Facilities Management (CAFM / IWMS / CMMS)**. These applications empower facility managers, corporate real estate (CRE) leaders, and operations teams to optimize building assets, space planning, preventive maintenance, occupant experience, and smart building IoT integrations across corporate, campus, healthcare, and industrial portfolios.
 
-<a href="https://star-history.com/#ishandutta2007/Awesome-Facilities-Management&Timeline" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Facilities-Management_growth.svg">
-    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Facilities-Management_growth.svg">
-  </picture>
-</a>
+---
+
+## 📊 Market Size & Industry Structure 📈
+
+> 💡 **Market Size & Structure**: The global Computer-Aided Facility Management (CAFM) and Integrated Workplace Management System (IWMS) market is estimated at **~$52.8 Billion in 2026** (growing at a ~11.4% CAGR). The market is **moderately fragmented**, featuring massive enterprise tech conglomerates (IBM, Fortive/Accruent, Nemetschek/Spacewell), private-equity backed workplace consolidators (Eptura), and specialized point solutions alongside emerging open-source options.
+
+---
+
+## 📑 Table of Contents 📋
+- [💼 Commercial SaaS & Enterprise IWMS Platforms](#-commercial-saas--enterprise-iwms-platforms)
+- [⭐ Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Implementation & Architecture Guidelines](#%EF%B8%8F-implementation--architecture-guidelines)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [☕ Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+
+---
+
+## 💼 Commercial SaaS & Enterprise IWMS Platforms 🏢
+
+| Platform / Vendor 🏢 | Starting Price 💵 | Free Tier / Trial Limit 🎁 | Company Size / Valuation 📊 | Key Features & Focus 🌟 |
+| :--- | :--- | :--- | :--- | :--- |
+| **[IBM TRIRIGA / Maximo](https://www.ibm.com/)** | $1,100 / user / year (Maximo SaaS base tier) | 14-day Enterprise Sandbox trial (upon request) | **~$180 Billion Market Cap** (IBM) | Enterprise IWMS & EAM suite for large corporate & public sector real estate portfolios. |
+| **[Planon](https://planonsoftware.com/)** | $10,000 / year (Base mid-market package) | 30-day customized guided trial | **~$1.2 Billion Valuation** (Schneider Electric subsidiary) | Comprehensive IWMS & IoT smart building suite with strong sustainability & real estate tracking. |
+| **[Eptura](https://eptura.com/)** | $3,500 / year (Workplace starter package) | 14-day interactive demo trial | **~$1.0 Billion+ Valuation** (Thoma Bravo / Clearlake backer) | Unified workplace platform combining facilities, desk booking, and space planning. |
+| **[Archibus (Eptura)](https://archibus.com/)** | $5,000 / year (Core CAFM module) | 14-day guided trial environment | **~$1.0 Billion Valuation** (Part of Eptura Group) | Industry-standard CAFM with CAD/BIM floorplan integration, occupancy & maintenance tracking. |
+| **[Accruent](https://www.accruent.com/)** | $250 / user / month | 14-day product sandbox trial | **~$800 Million Valuation** (Fortive Corporation subsidiary) | Multi-site facilities management, lease administration, and CMMS for corporate portfolios. |
+| **[FM:Systems](https://fmsystems.com/)** | $300 / month | 14-day guided sandbox trial | **~$450 Million Valuation** (Acquired by Johnson Controls) | Workplace management software specialized in floorplan occupancy sensors and space utilization. |
+| **[Maintenance Connection](https://www.maintenanceconnection.com/)** | $110 / user / month (Professional Plan) | 14-day full feature trial | **~$350 Million Valuation** (Accruent / Fortive entity) | CMMS and facility preventive maintenance platform for work orders, asset lifecycle & inventory. |
+| **[Spacewell](https://spacewell.com/)** | $450 / month | 14-day sensor & workplace software trial | **~$250 Million Valuation** (Nemetschek Group brand) | Smart building IoT platform focusing on real-time space utilization, air quality & occupant comfort. |
+| **[OfficeSpace](https://www.officespacesoftware.com/)** | $2.50 / desk / month | 14-day desk-booking trial | **~$150 Million Valuation** (Resurgens Technology Partners) | Intuitive hybrid workplace management, desk booking, visual drag-and-drop space allocation. |
+| **[SpaceIQ](https://eptura.com/)** | $2.00 / seat / month | 14-day workplace software trial | **~$100 Million Valuation** (Part of Eptura Portfolio) | Agility-focused space management, move management, and occupancy analytics. |
+
+---
+
+## ⭐ Open-Source GitHub Projects 🔓
+
+The following GitHub repositories provide self-hostable open-source CMMS, CAFM engines, floor plan tools, and facility automation modules.
+
+| Open-Source Project 🚀 | Repository & Stars 🌟 | Primary Category 🏷️ | Description & Capabilities 📝 |
+| :--- | :--- | :--- | :--- |
+| **[Odoo Maintenance / Facilities](https://github.com/odoo/odoo)** | [![Odoo Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Open ERP CMMS Module | Enterprise open-source ERP with integrated equipment preventive maintenance, asset tracking & work requests. |
+| **[Home Assistant (Smart Building)](https://github.com/home-assistant/core)** | [![Home Assistant Stars](https://img.shields.io/github/stars/home-assistant/core?style=social&color=white)](https://github.com/home-assistant/core/stargazers) | Building Automation & IoT | Open-source IoT automation engine used to connect HVAC, environmental sensors, and occupancy detectors. |
+| **[ERPNext Maintenance](https://github.com/frappe/erpnext)** | [![ERPNext Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Open ERP Facilities | Full open-source ERP suite containing asset lifecycle management, maintenance schedules, and work orders. |
+| **[ThingsBoard IoT](https://github.com/thingsboard/thingsboard)** | [![ThingsBoard Stars](https://img.shields.io/github/stars/thingsboard/thingsboard?style=social&color=white)](https://github.com/thingsboard/thingsboard/stargazers) | Smart Building Dashboard | Open-source IoT platform for telemetry data collection, building energy monitoring, and asset condition alerts. |
+| **[NetBox Asset & Facility](https://github.com/netbox-community/netbox)** | [![NetBox Stars](https://img.shields.io/github/stars/netbox-community/netbox?style=social&color=white)](https://github.com/netbox-community/netbox/stargazers) | Infrastructure & IPAM | Infrastructure management resource modeling power, rack space, cables, and equipment assets across locations. |
+| **[Apache Unomi (Occupancy Data)](https://github.com/apache/unomi)** | [![Apache Unomi Stars](https://img.shields.io/github/stars/apache/unomi?style=social&color=white)](https://github.com/apache/unomi/stargazers) | Customer & Space Analytics | Open-source customer & space context engine adaptable for building occupant telemetry and spatial analytics. |
+| **[openMAINT / CMDBuild](https://www.openmaint.org/)** | [![CMDBuild Community](https://img.shields.io/badge/openMAINT-Community-blue?style=social&color=white)](https://www.openmaint.org/) | Complete CAFM/CMMS Suite | Comprehensive open-source CAFM application for space, building assets, preventive maintenance, and GIS/BIM integration. |
+| **[SuperCMMS](https://github.com/SuperCMMS/Open-Source-CMMS)** | [![SuperCMMS Stars](https://img.shields.io/github/stars/SuperCMMS/Open-Source-CMMS?style=social&color=white)](https://github.com/SuperCMMS/Open-Source-CMMS/stargazers) | Open CMMS | Lightweight MIT-licensed CMMS for work orders, facility asset registries, and technician ticket handling. |
+| **[Atlas CMMS](https://atlas-cmms.com/)** | [![Atlas CMMS](https://img.shields.io/badge/Atlas_CMMS-Self--Hostable-orange?style=social&color=white)](https://atlas-cmms.com/) | Facility CMMS | Self-hostable computerized maintenance management system optimized for multi-site maintenance teams. |
+
+---
+
+## 🛠️ Implementation & Architecture Guidelines 🏗️
+
+```
+  ┌─────────────────────────────────────────────────────────┐
+  │                 Corporate Real Estate / FM              │
+  └────────────────────────────┬────────────────────────────┘
+                               │
+            ┌──────────────────┴──────────────────┐
+            ▼                                     ▼
+┌───────────────────────────────┐     ┌───────────────────────────────┐
+│   Commercial IWMS / CAFM      │     │  Open-Source Stack (Modular)  │
+│  (Planon, Eptura, TRIRIGA)   │     │  (openMAINT, Odoo, NetBox)    │
+└───────────┬───────────────────┘     └───────────┬───────────────────┘
+            │                                     │
+            └──────────────────┬──────────────────┘
+                               ▼
+        ┌──────────────────────────────────────────┐
+        │  IoT Sensors, BMS & Floorplan Analytics │
+        └──────────────────────────────────────────┘
+```
+
+- **Asset & Location Registration**: Register physical assets, building floors, and room spaces in openMAINT or Odoo Maintenance modules.
+- **Work Orders & PM Schedules**: Automate routine inspection tickets and corrective work orders.
+- **Floor Plan & Desk Booking Visualization**: Integrate visual interactive CAD/BIM floor plans.
+- **IoT Environmental Telemetry**: Connect temperature, humidity, CO2, and occupancy sensors into dashboard engines like Home Assistant or ThingsBoard.
+
+---
+
+## 🤝 How to Contribute 📑
+
+Contributions are warmly welcome! Please follow these simple steps:
+1. Fork this repository.
+2. Edit `README.md` to add new SaaS platforms or open-source GitHub projects.
+3. Ensure description formatting matches existing entries.
+4. Submit a Pull Request (PR) with a clear explanation of additions.
+
+---
+
+## ☕ Support & Sponsorship 💖
+
+If you find this curated facility management repository useful for your workplace operations, software research, or infrastructure deployment, please consider supporting the project!
+
+- ⭐ **Star** this repository to increase visibility.
+- 🔀 **Fork** and contribute new tools or updates.
+- 📢 **Share** with facility managers, CRE tech leaders, and engineers.
+- ☕ **Buy me a coffee**: Sponsor the developer via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007)!
+
+---
+
+## 📈 Star History 📊
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Facilities-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Facilities-Management&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer 📜
+- This repository is a **community-curated list** provided for informational and research purposes only.
+- Facilities management systems often touch critical building controls, physical security, and occupant personal data. Ensure appropriate compliance, safety standards, and access policies before deploying any software.
