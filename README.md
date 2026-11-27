@@ -55,6 +55,7 @@ This repository tracks leading commercial **SaaS platforms** and **open-source G
 | **[Spacewell](https://spacewell.com/)** | $450 / month | 14-day sensor & workplace software trial | **~$250 Million Valuation** (Nemetschek Group brand) | Smart building IoT platform focusing on real-time space utilization, air quality & occupant comfort. |
 | **[OfficeSpace](https://www.officespacesoftware.com/)** | $2.50 / desk / month | 14-day desk-booking trial | **~$150 Million Valuation** (Resurgens Technology Partners) | Intuitive hybrid workplace management, desk booking, visual drag-and-drop space allocation. |
 | **[SpaceIQ](https://eptura.com/)** | $2.00 / seat / month | 14-day workplace software trial | **~$100 Million Valuation** (Part of Eptura Portfolio) | Agility-focused space management, move management, and occupancy analytics. |
+| **[BigPlanner Partners Facilities AI](https://bigplanner.co.kr/fire-safety-ai/en/)** | Quote on request | Guided demo on request | Not publicly disclosed | Commercial building service desk for recurring tenant enquiries, staff routing and shift handovers. Korean-language demo with English captions. |
 
 ---
 
